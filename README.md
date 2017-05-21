@@ -13,13 +13,14 @@ Nipuna
 Chathuranga 
 
 #Initial delivery
-UserManagement_UI - Solution
+
+    UserManagement_UI - Solution
     + Login - html 
     + Login - js
 
-UserManagement_API - Solution
+    UserManagement_API - Solution
     + Difference database type config Library
     + web api for login
 
-UserManagement_Database_For_Postgresql
+    UserManagement_Database_For_Postgresql
     + sql files  
